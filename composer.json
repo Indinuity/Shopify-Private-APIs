@@ -1,5 +1,5 @@
 {
-    "name": "colling-media/shopify-private-apis",
+    "name": "martinamps/shopify-private-apis",
     "description": "Helper to access closed shopify api's",
     "keywords": ["shopify", "api"],
     "license": "MIT",
