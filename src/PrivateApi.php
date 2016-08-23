@@ -1,6 +1,6 @@
 <?php
 
-namespace Shopify;
+namespace ShopifyPrivateAPI;
 
 class PrivateAPI {
 	const _LOGIN_URL = 'auth/login';
